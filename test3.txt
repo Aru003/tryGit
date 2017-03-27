@@ -1,2 +1,3 @@
 Test3 Git
 This line is added in GIT hub Directly
+This is new 3rd line
